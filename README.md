@@ -1,7 +1,7 @@
 
 
 ## Requirements
-- Python 3.10+ (tested on Windows 10 PowerShell, but any OS with Python should work)
+- Python 3
 
 to run the command
 write: 
@@ -9,6 +9,8 @@ write:
 
 python project3.py + the command 
 
+for example:
+python project3.py search data2.idx 125
 
 
 | Command  | Usage / Arguments                                  | Description |
